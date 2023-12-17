@@ -46,7 +46,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
 #layout-wrapper .navigation_top .wrap .flex .nav_mbar{display: none;}
 
 #layout-wrapper .section1{position: relative;z-index:10;height: 100vh;min-height: 55rem;}
-#layout-wrapper .section1 .section_bg{position: fixed;z-index: 10;width: 100vw;height: 100vh;min-height: 55rem;background:url('.../images/main_bg.png');background-position: 50% 50%;background-size: cover;background-repeat: no-repeat;overflow: hidden;}
+#layout-wrapper .section1 .section_bg{position: fixed;z-index: 10;width: 100vw;height: 100vh;min-height: 55rem;background:url('../images/main_bg.png');background-position: 50% 50%;background-size: cover;background-repeat: no-repeat;overflow: hidden;}
 #layout-wrapper .section1 .section_bg .video_img{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: 100%;height: 100%;z-index: 8;}
 #layout-wrapper .section1 .section_bg #video1{position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);width: 100%;height: 100%;z-index: 9;}
 #layout-wrapper .section1 .section_bg #video1 #video1_item{display: block;width: 100%;}
