@@ -208,7 +208,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
     #layout-wrapper .navigation_top .wrap .flex .nav_mbar .icon_mbar.on .line.line2{opacity: 0;}
     #layout-wrapper .navigation_top .wrap .flex .nav_mbar .icon_mbar.on .line.line3{top: 50%;transform: translate(-50%, -50%) rotate(-45deg);}
     #layout-wrapper .navigation_top .wrap .flex .nav_mbar .mbar_bg{position: fixed;top: 0;right: 0;width: 100vw;height: 100vh;z-index: 1002;background: rgba(0,0,0,0.5);backdrop-filter: blur(10px);-webkit-backdrop-filter: blur(10px);display: none;}
-    #layout-wrapper .navigation_top .wrap .flex .nav_mbar .mbar_item{position: fixed;top: 0;right: 0;width: 80vw;height: 100vh;z-index: 1003;background: #333;padding: 3rem;transform: translateX(100%);transition: 0.5s;}
+    #layout-wrapper .navigation_top .wrap .flex .nav_mbar .mbar_item{position: fixed;top: 0;right: 0;width: 80vw;height: 100vh;z-index: 1003;background: #333;padding: 3rem 1.5rem;transform: translateX(100%);transition: 0.5s;}
     #layout-wrapper .navigation_top .wrap .flex .nav_mbar .mbar_item.on{transform: translateX(0);}
     #layout-wrapper .navigation_top .wrap .flex .nav_mbar .mbar_item .icon_item{background: #000;margin-bottom: 0.5rem;}
     #layout-wrapper .navigation_top .wrap .flex .nav_mbar .mbar_item .icon_item a{padding: 1.2rem 2rem;}
@@ -251,7 +251,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .container_title{margin-bottom: 3rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .container_title .flex .tit{width: 100%;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .container_title .flex .title_a{width: 100%;margin-top: 2rem;}
-    #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item{width: 25rem;margin-right: 0;padding: 0 0.5rem;}
+    #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item{width: 25rem;margin-right: 0;padding: 0 0.5rem;min-height: 25rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item:first-child{margin-left: 8rem;}
     
     #layout-wrapper .section6{padding: 8rem 0;}
@@ -303,7 +303,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
     #layout-wrapper .section4 .wrap .section4_item1.item2 .flex .item_text .text_top .flex .icon{width: 2rem;margin-right: 1rem;}
 
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper{padding: 5rem 0;}
-    #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item{width: 18rem;}
+    #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item{width: 18rem;min-height: 20rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item:first-child{margin-left: 5rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item.last .item_text{padding: 0 2rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item .item_text .tt{margin-top: 0.5rem;}
