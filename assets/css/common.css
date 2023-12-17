@@ -58,7 +58,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
 #layout-wrapper .section1 .wrap .section_text .t{color: #fff;margin-top: 3rem;}
 #layout-wrapper .section1 .wrap .section_text span{position: relative;display: inline-block;}
 #layout-wrapper .section1 .wrap .section_text span .text_t{z-index: 14;opacity: 0;transition: 0.5s;}
-#layout-wrapper .section1 .wrap .section_text span .text_line{position: absolute;left: 0;top: 50%;transform: translateY(-50%); z-index: 15;width: 0;height: 80%;background: #fff;transition: 0.5s;}
+#layout-wrapper .section1 .wrap .section_text span .text_line{position: absolute;left: 0;top: 50%;transform: translateY(-50%); z-index: 15;width: 0;height: 90%;background: #fff;transition: 0.5s;}
 #layout-wrapper .section1.effect.action .section_text{opacity: 1;}
 #layout-wrapper .section1.effect.action .wrap .section_text span .text_t{-moz-animation: section1text 2s ease 1s 1 forwards;-webkit-animation: section1text 2s ease 1s 1 forwards;animation: section1text 2s ease 1s 1 forwards;}
 #layout-wrapper .section1.effect.action .wrap .section_text span .text_line{-moz-animation: section1textline 2s ease 1s 1 forwards;-webkit-animation: section1textline 2s ease 1s 1 forwards;animation: section1textline 2s ease 1s 1 forwards;}
@@ -73,7 +73,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
 #layout-wrapper .section2 .wrap .section_text .btn_tit{margin-top: 5rem;}
 #layout-wrapper .section2 .wrap .section_text span{position: relative;display: inline-block;}
 #layout-wrapper .section2 .wrap .section_text span .text_t{z-index: 14;opacity: 0;transition: 0.5s;}
-#layout-wrapper .section2 .wrap .section_text span .text_line{position: absolute;left: 0;top: 50%;transform: translateY(-50%); z-index: 15;width: 0;height: 100%;background: #fff;transition: 0.5s;}
+#layout-wrapper .section2 .wrap .section_text span .text_line{position: absolute;left: 0;top: 50%;transform: translateY(-50%); z-index: 15;width: 0;height: 90%;background: #fff;transition: 0.5s;}
 #layout-wrapper .section2 .wrap > .line.effect.action{width: 100%;}
 #layout-wrapper .section2 .wrap .section_text.effect.action span .text_t{-moz-animation: section1text 2s ease 1 forwards;-webkit-animation: section1text 2s ease 1 forwards;animation: section1text 2s ease 1 forwards;}
 #layout-wrapper .section2 .wrap .section_text.effect.action span .text_line{-moz-animation: section1textline 2s ease 1 forwards;-webkit-animation: section1textline 2s ease 1 forwards;animation: section1textline 2s ease 1 forwards;}
