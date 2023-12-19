@@ -332,6 +332,7 @@ bottom: -1rem;right: 0;transform: translate(0, 100%);background: #fff;padding: 0
     .little_none{display: none;}
     .little_show{display: block;}
 
+    #layout-wrapper .section1 .wrap .section_text .title_b{font-size: 2.6rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item{width: 14rem;}
     #layout-wrapper .section5 .section5_scroll .scroll_wrapper .wrap .scroll_container .container_item:first-child{margin-left: 3rem;}
 }
